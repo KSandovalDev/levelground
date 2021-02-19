@@ -1,1 +1,1 @@
-This project required me to replicate the Level Ground website
+This project required me to replicate a wireframe called Level Ground 
